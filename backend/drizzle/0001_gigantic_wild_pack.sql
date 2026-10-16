@@ -1,0 +1,1 @@
+ALTER TABLE "projects" ADD COLUMN "password_hash" varchar(255) NOT NULL;
